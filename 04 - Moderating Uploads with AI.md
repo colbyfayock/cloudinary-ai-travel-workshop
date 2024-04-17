@@ -1,5 +1,7 @@
 # 04 - Moderating Uploads with AI
 
+<Use case about UGC>
+
 ## 01 - Setting up Manual moderation with Upload Presets
 
 Navigate to:
