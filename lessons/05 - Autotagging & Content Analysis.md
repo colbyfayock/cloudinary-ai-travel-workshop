@@ -1,6 +1,10 @@
 # 05 - Autotagging & Content Analysis
 
-[use case upload images and not being able to search for them]
+If 100's or 1000's of images are being uploaded, how could you possibly find specific images with nothing to search on?
+
+Luckily our content analysis can help us out, where we can automatically tag our images based on what's inside.
+
+Bonus: we can use the same content analysis to easily generate captions for our images, helping with accessibility.
 
 ## 01 - Manually tagging images
 
