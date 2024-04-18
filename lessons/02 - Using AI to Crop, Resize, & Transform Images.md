@@ -4,7 +4,7 @@ Images can come from anyhwere, often leaving us stuck with the aspect ratios our
 
 But there's a better way...
 
-> Next Cloudinary Docs: https://next.cloudinary.dev/
+> Next Cloudinary: https://next.cloudinary.dev/cldimage/examples
 
 ## 01 - Dynamically cropping and resizing images
 
