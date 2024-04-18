@@ -34,7 +34,7 @@ Let's try adding a nice yellow background to all images:
 />
 ```
 
-And we sohuld see our images starting to look uniform.
+And we should see our images starting to look more uniform in appearance.
 
 ## 03 - Consistent Cropping & Sizing
 
@@ -44,10 +44,8 @@ We can use Cloudinary's AI cropping feature to pick the best crop, making all it
 of space, while also looking consistent in the UI.
 
 ```
-```
 <CldImage
   ...
   crop="auto"
 />
-```
 ```
