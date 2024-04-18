@@ -1,8 +1,17 @@
 # 04 - Moderating Uploads with AI
 
-[Use case about UGC]
+UGC, or User Generated Content, is a common way to bring engagement from your community.
+
+A common example of this is customer reviews.
+
+But how do you possibly manage all of those photos in a sane way? Making sure to avoid showing
+NSFW content or generally enabling quality control.
 
 ## 01 - Setting up Manual moderation with Upload Presets
+
+To start, we can manually moderate any image uploaded to our account.
+
+We'll do this by creating an Upload Preset and activating moderation.
 
 Navigate to:
 * Settings
@@ -25,6 +34,9 @@ Now we can save, copy the ID of our new preset, and add it to our CldUploadButto
 ```
 
 ## 02 - Moderating with AI using Amazon Rekognition
+
+But the goal here is to use AI to save us time right? Well we can automatically analyze each image upon upload
+and determine what kind of content, and if it's determine to be not safe, automatically reject it.
 
 Back inside Upload Preset configuration, under Upload Control and Auto moderation, select Amazon Rekognition.
 
