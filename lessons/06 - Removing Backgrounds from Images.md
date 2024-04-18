@@ -6,9 +6,11 @@ from different locations, we may not be able to do that so easily.
 Cloudinary gives us a Photoshop-like API where we can easily do things like remove the background and
 add other stylized effects, to trasnform our images exactly how we'd like.
 
+> Next Cloudinary Docs: https://next.cloudinary.dev/cldimage/examples
+
 ## 01 - Removing Backgrounds
 
-Cloudinary makes it easy to remove backgrounds using the Cloudinary AI Background Removal Add-On.
+Cloudinary makes it easy to remove backgrounds using the [Cloudinary AI Background Removal Add-On](https://cloudinary.com/documentation/cloudinary_ai_background_removal_addon).
 
 Navigate to Settings and then Add-Ons (Puzzle icon), find and select Cloudinary AI Background Removal, then select the Free option to add it to your account.
 
