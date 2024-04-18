@@ -37,3 +37,7 @@ Navigate to Settings and then Add-Ons (Puzzle icon), find and select Rekognition
 If we try to upload a photo that's not permitted, we'll see it automatically gets rejected.
 
 <img width="1110" alt="image" src="https://github.com/colbyfayock/cloudinary-ai-travel-workshop/assets/1045274/94249bcc-8ff4-42b2-a67c-5e0717808a79">
+
+## Next Up
+
+[05 - Autotagging & Content Analysis](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/05%20-%20Autotagging%20%26%20Content%20Analysis.md)
