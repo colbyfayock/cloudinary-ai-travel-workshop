@@ -7,8 +7,6 @@ In this workshop you'll learn how to use AI to create more efficient image and v
 * [Before the Workshop](#-before-the-workshop)
 * [The Workshop](#-the-workshop)
 
-Demo: https://my-travel-ai-psi.vercel.app/
-Code: https://github.com/colbyfayock/my-travel-ai
 
 ## 🔍 Workshop Overview
 
@@ -22,6 +20,10 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Generate captions using AI
 * Remove backgrounds from images
 * And more? 👀 we'll see how much time we have!
+
+Demo: https://my-travel-ai-psi.vercel.app/
+
+Code: https://github.com/colbyfayock/my-travel-ai
 
 ## 👨‍🚀 Who Am I?
 
