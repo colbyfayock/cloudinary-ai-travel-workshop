@@ -6,6 +6,8 @@ Luckily our content analysis can help us out, where we can automatically tag our
 
 Bonus: we can use the same content analysis to easily generate captions for our images, helping with accessibility.
 
+> Next Cloudinary Docs: https://next.cloudinary.dev/clduploadbutton/examples
+
 ## 01 - Manually tagging images
 
 We're already tagging our images with `traveler-photo` and `destination-${destination.id}` which helps us programmatically search for the images for each page.
