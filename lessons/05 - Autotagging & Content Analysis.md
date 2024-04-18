@@ -16,7 +16,7 @@ We can update these to whatever we want as long as we update the search request,
 
 Instead, or in addition to, tagging manually, we can use AI to look at what's in the photo and apply those "things" as tags to the image.
 
-To do this, we'll use the Google Auto Tagging Add-on.
+To do this, we'll use the [Google Auto Tagging Add-on](https://cloudinary.com/documentation/google_auto_tagging_addon).
 
 Navigate to Settings and then Add-Ons (Puzzle icon), find and select Google Auto Tagging, then select the Free option to add it to your account.
 
@@ -36,7 +36,7 @@ But we can also look inside of our Upload network request and see them in our re
 
 Let's take this analysis another step, where not only can we generate tags, we can generate captions for our images.
 
-We'll use another Add-On for this, the Cloudinary AI Content Analysis Add-on.
+We'll use another Add-On for this, the [Cloudinary AI Content Analysis Add-on](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon).
 
 Navigate to Settings and then Add-Ons (Puzzle icon), find and select Cloudinary AI Content Analysis, then select the Free option to add it to your account.
 
