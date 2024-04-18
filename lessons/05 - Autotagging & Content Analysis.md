@@ -75,6 +75,15 @@ Here we'll update the caption on success, but we'll also add a tag of "autocapti
 </CldUploadButton>
 ```
 
+And finally, we can apply that to the image by utilizing the image's context which includes a caption:
+
+```
+<CldImage
+  ...
+  alt={photo.context?.caption || ''}
+/>
+```
+
 ## Next Up
 
 [06 - Removing Backgrounds & Stylizing Images](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/lessons/06%20-%20Removing%20Backgrounds%20from%20Images.md)
