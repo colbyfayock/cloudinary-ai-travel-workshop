@@ -4,7 +4,7 @@ Let's get started be scaffolding our new project!
 
 ## 1. Create a new project
 
-To get started, we'll create a new Next.js application using an existing starter template.
+To get started, we'll create a new Next.js application using an [existing starter template](https://github.com/colbyfayock/demo-travel-workshop-starter).
 
 Run the following command in your terminal:
 
