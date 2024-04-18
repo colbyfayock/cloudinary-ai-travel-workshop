@@ -40,4 +40,4 @@ If we try to upload a photo that's not permitted, we'll see it automatically get
 
 ## Next Up
 
-[05 - Autotagging & Content Analysis](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/05%20-%20Autotagging%20%26%20Content%20Analysis.md)
+[05 - Autotagging & Content Analysis](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/lessons/05%20-%20Autotagging%20%26%20Content%20Analysis.md)
