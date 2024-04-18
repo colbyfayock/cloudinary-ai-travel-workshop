@@ -1,4 +1,4 @@
-# 01 - Application Set Up & Configuration
+# 01 - Application Setup & Configuration
 
 ## 1. Create a new project
 
