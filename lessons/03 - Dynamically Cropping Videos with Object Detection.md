@@ -4,6 +4,8 @@ Videos are super impactful for building engaging experiences, but they're a bit 
 
 Nah, Cloudinary can do mose of the same things it can do with images, and more!
 
+> Next Cloudinary: https://next.cloudinary.dev/cldvideoplayer/examples
+
 ## 01 - Dynamically cropping and resizing videos
 
 We can use similar cropping and resizing techniques to transform our videos to different aspect ratios on the fly.
