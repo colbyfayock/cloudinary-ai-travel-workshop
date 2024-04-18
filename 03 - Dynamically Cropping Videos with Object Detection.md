@@ -39,3 +39,7 @@
   ...
 />
 ```
+
+## Next Up
+
+[04 - Moderating Uploads with AI](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/04%20-%20Moderating%20Uploads%20with%20AI.md)
