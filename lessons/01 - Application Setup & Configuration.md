@@ -1,5 +1,7 @@
 # 01 - Application Setup & Configuration
 
+Let's get started be scaffolding our new project!
+
 ## 1. Create a new project
 
 To get started, we'll create a new Next.js application using an existing starter template.
@@ -59,6 +61,8 @@ This script will use the credentials you just added to upload a bunch of images 
 Once complete, you should be able to see them inside of your Media Library!
 
 ![image](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/assets/1045274/7ee80cc9-bbac-4d8c-840d-7d3c80d63ff1)
+
+> Troubleshooting: Script failing to run? Be sure that you have your environment variables correctly set up as described in Step #3!
 
 ## 5. Start your development server
 
