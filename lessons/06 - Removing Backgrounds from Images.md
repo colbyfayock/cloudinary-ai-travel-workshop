@@ -49,3 +49,7 @@ of space, while also looking consistent in the UI.
   crop="auto"
 />
 ```
+
+## What's Next?
+
+Explore more [Cloudinary AI Features](https://cloudinary.com/documentation/ai_in_action), learn more web dev tech over on my [YouTube channel](https://youtube.com/colbyfayock), and let me know what you thought about the workshop [in this survey](https://forms.gle/32h1grNb8k5F6Z7A8)!
