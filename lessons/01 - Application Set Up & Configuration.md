@@ -88,4 +88,4 @@ Some interesting things you can find:
 
 ## Next Up
 
-[02 - Using AI to Crop, Resize, & Transform Images](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/02%20-%20Using%20AI%20to%20Crop%2C%20Resize%2C%20%26%20Transform%20Images.md)
+[02 - Using AI to Crop, Resize, & Transform Images](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/lessons/02%20-%20Using%20AI%20to%20Crop%2C%20Resize%2C%20%26%20Transform%20Images.md)
