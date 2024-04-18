@@ -1,5 +1,11 @@
 # 06 - Removing Backgrounds & Stylizing Images
 
+When showing our photos, we want to maintain consistency and visual appeal. If our images are coming
+from different locations, we may not be able to do that so easily.
+
+Cloudinary gives us a Photoshop-like API where we can easily do things like remove the background and
+add other stylized effects, to trasnform our images exactly how we'd like.
+
 ## 01 - Removing Backgrounds
 
 Cloudinary makes it easy to remove backgrounds using the Cloudinary AI Background Removal Add-On.
