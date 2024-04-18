@@ -77,4 +77,4 @@ Here we'll update the caption on success, but we'll also add a tag of "autocapti
 
 ## Next Up
 
-[06 - Removing Backgrounds & Stylizing Images](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/06%20-%20Removing%20Backgrounds%20from%20Images.md)
+[06 - Removing Backgrounds & Stylizing Images](https://github.com/colbyfayock/cloudinary-ai-travel-workshop/blob/main/lessons/06%20-%20Removing%20Backgrounds%20from%20Images.md)
